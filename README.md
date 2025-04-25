@@ -22,6 +22,6 @@ Bu proje, **ADO.NET** teknolojisi kullanılarak geliştirilmiş basit bir restor
 
 ## 🖼️ Ekran Görüntüleri
 
-![Masa Takibi Görseli]([./screenshots/masa-takip.png](https://github.com/user-attachments/assets/5bac22b2-0d74-48cc-9f9e-2d3e5e51cdfe))
+![Masa Takibi Görseli]([/screenshots/masa-takip.png](https://github.com/user-attachments/assets/5bac22b2-0d74-48cc-9f9e-2d3e5e51cdfe))
 
 
