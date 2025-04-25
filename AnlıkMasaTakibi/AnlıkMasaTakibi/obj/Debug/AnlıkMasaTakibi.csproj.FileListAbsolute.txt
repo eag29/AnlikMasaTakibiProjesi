@@ -1,0 +1,15 @@
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\AnlıkMasaTakibi\AnlıkMasaTakibi\bin\Debug\AnlıkMasaTakibi.exe.config
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\AnlıkMasaTakibi\AnlıkMasaTakibi\bin\Debug\AnlıkMasaTakibi.exe
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\AnlıkMasaTakibi\AnlıkMasaTakibi\bin\Debug\AnlıkMasaTakibi.pdb
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\AnlıkMasaTakibi\AnlıkMasaTakibi\bin\Debug\EntityFramework.dll
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\AnlıkMasaTakibi\AnlıkMasaTakibi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\AnlıkMasaTakibi\AnlıkMasaTakibi\bin\Debug\EntityFramework.xml
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\AnlıkMasaTakibi\AnlıkMasaTakibi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\AnlıkMasaTakibi\AnlıkMasaTakibi\obj\Debug\AnlıkMasaTakibi.csproj.AssemblyReference.cache
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\AnlıkMasaTakibi\AnlıkMasaTakibi\obj\Debug\AnlıkMasaTakibi.Form1.resources
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\AnlıkMasaTakibi\AnlıkMasaTakibi\obj\Debug\AnlıkMasaTakibi.Properties.Resources.resources
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\AnlıkMasaTakibi\AnlıkMasaTakibi\obj\Debug\AnlıkMasaTakibi.csproj.GenerateResource.cache
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\AnlıkMasaTakibi\AnlıkMasaTakibi\obj\Debug\AnlıkMasaTakibi.csproj.CoreCompileInputs.cache
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\AnlıkMasaTakibi\AnlıkMasaTakibi\obj\Debug\Anl_kMas.E3E2BA20.Up2Date
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\AnlıkMasaTakibi\AnlıkMasaTakibi\obj\Debug\AnlıkMasaTakibi.exe
+C:\Users\Emir Ali\Documents\Projeler\Ado.NetProjeleri\AnlıkMasaTakibi\AnlıkMasaTakibi\obj\Debug\AnlıkMasaTakibi.pdb

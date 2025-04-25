@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emir Ali\\Documents\\Projeler\\Ado.NetProjeleri\\Anl\u0131kMasaTakibi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDADFC4B-F96E-4985-9888-6382FCB859DD}|Anl\u0131kMasaTakibi\\Anl\u0131kMasaTakibi.csproj|c:\\users\\emir ali\\documents\\projeler\\ado.netprojeleri\\anl\u0131kmasatakibi\\anl\u0131kmasatakibi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDADFC4B-F96E-4985-9888-6382FCB859DD}|Anl\u0131kMasaTakibi\\Anl\u0131kMasaTakibi.csproj|solutionrelative:anl\u0131kmasatakibi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDADFC4B-F96E-4985-9888-6382FCB859DD}|Anl\u0131kMasaTakibi\\Anl\u0131kMasaTakibi.csproj|c:\\users\\emir ali\\documents\\projeler\\ado.netprojeleri\\anl\u0131kmasatakibi\\anl\u0131kmasatakibi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDADFC4B-F96E-4985-9888-6382FCB859DD}|Anl\u0131kMasaTakibi\\Anl\u0131kMasaTakibi.csproj|solutionrelative:anl\u0131kmasatakibi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\Ado.NetProjeleri\\Anl\u0131kMasaTakibi\\Anl\u0131kMasaTakibi\\Form1.cs",
+              "RelativeDocumentMoniker": "Anl\u0131kMasaTakibi\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\Ado.NetProjeleri\\Anl\u0131kMasaTakibi\\Anl\u0131kMasaTakibi\\Form1.cs",
+              "RelativeToolTip": "Anl\u0131kMasaTakibi\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:26:51.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\Ado.NetProjeleri\\Anl\u0131kMasaTakibi\\Anl\u0131kMasaTakibi\\Form1.cs",
+              "RelativeDocumentMoniker": "Anl\u0131kMasaTakibi\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\Ado.NetProjeleri\\Anl\u0131kMasaTakibi\\Anl\u0131kMasaTakibi\\Form1.cs [Design]",
+              "RelativeToolTip": "Anl\u0131kMasaTakibi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:10:17.174Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
