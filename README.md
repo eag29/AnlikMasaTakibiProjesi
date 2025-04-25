@@ -1,4 +1,4 @@
-# AnlikMasaTakibiProjesi
+# Anlık Masa Takibi Projesi
 
 Bu proje Ado.net teknolojisi ile geliştirilmiştir.
 
